@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ZfPTVEMQKf9vhNiUh0bj",
+    "image": "https://spilforsyningen.dk/cdn/shop/products/BS-NEM.jpg?v=1602757329&width=744",
+    "mail": "Sci-Fi",
+    "name": "Nemesis",
+    "title": "Strategy Game"
+  },
+  {
+    "id": "fTs84KRoYw5pRZEWCq2Z",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2812/yzsrapB7edp44te4uowFz62i.png",
+    "mail": "Adventure",
+    "name": "Catan",
+    "title": "Party Game"
+  },
+  {
+    "id": "fjpRTRTjZHwrq3tTLHri",
+    "image": "https://m.media-amazon.com/images/I/61iD8lkb9tL._AC_UF894,1000_QL80_.jpg",
+    "mail": "Detective",
+    "name": "Codenames",
+    "title": "Family Game"
+  },
+  {
+    "id": "pqzGY1MnHYm3I4Ca79Xn",
+    "image": "https://m.media-amazon.com/images/I/71Cx5fPpaNL.jpg",
+    "mail": "Puzzle",
+    "name": "Ubongo",
+    "title": "Game for children"
+  },
+  {
+    "id": "HlvRHr58C05guOLl64k5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Saboteur_table_verte.jpg/220px-Saboteur_table_verte.jpg",
+    "mail": "Adventure",
+    "name": "Saboteur",
+    "title": "Strategy Game"
+  },
+  {
+    "id": "MlvJJr83C55auHLl64s7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ludo-3.jpg/260px-Ludo-3.jpg",
+    "mail": "Adventure",
+    "name": "Ludo",
+    "title": "Family Game"
+  }
+]
